@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋, I'm Matin Sajadi</h1>
 <h3 align="center">2nd-year bachelor student . Interested in machine learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matinsajadii" alt="matinsajadi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matinsajadii" alt="Matinsajadi" /> </p>
 
 <!--- 🔭 I’m currently working on [](https://github.com/naina25/SimonGame)-->
 
@@ -40,3 +40,28 @@
 <!--     </a> -->
 <!--     <a href="https://reactjs.org//" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>   --> 
+<!--     </a>
+     <a href="https://nodejs.org/en/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>   -->
+<!--     </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code>  -->
+<!--     </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>   -->
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://https://www.python.org/" target="_blank"> 
+          <code><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/></code>  
+      </a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsajadii&layout=compact&theme=nightowl" alt="Matinsajadi" /></p>
+<br \>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matinsajadii&show_icons=true&theme=nightowl" alt="Matinsajadi" /></p>
