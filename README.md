@@ -23,7 +23,7 @@
 <!-- <a href="https://fb.com/naina.upadhyay.7902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naina.upadhyay.7902" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/matins79/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
 </p>
-<a href="[https://www.instagram.com/matins79/](https://www.kaggle.com/matinsajadi)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/matinsajadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="__upadhyay_naina__/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
